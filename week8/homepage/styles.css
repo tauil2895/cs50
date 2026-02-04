@@ -1,0 +1,38 @@
+body {
+    width: 80%;
+    margin: auto;
+}
+
+header {
+    text-align: center;
+}
+
+nav > ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+nav > ul > li > a {
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+}
+
+.read-button {
+    color:white;
+    text-decoration: none;
+}
+
+.circle-photo {
+    border-radius: 50%;
+}
+
+.dark-mode {
+  background-color: #211E1E;
+  color: white;
+}

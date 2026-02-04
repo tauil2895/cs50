@@ -1,0 +1,28 @@
+HTML implementation:
+head
+title
+body
+footer
+div
+section
+nav
+header
+button
+ol
+ul
+li
+a
+
+CSS implementation:
+text-align
+background-color
+border-radius
+justify-content
+margin
+
+
+Javascript implementation:
+dark mode
+
+Bootstrap implementation:
+Heroes and Features
